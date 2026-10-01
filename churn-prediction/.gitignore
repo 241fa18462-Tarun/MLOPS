@@ -1,0 +1,15 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+data/processed/*.npy
+models/*.pkl
+artifacts/*.json
+artifacts/*.csv
+outputs/*.csv
+logs/*.log
+mlruns/
+mlflow.db
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
